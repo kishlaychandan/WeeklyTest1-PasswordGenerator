@@ -27,4 +27,4 @@ Make sure you have Node.js and npm installed. You can download them from [Node.j
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/kishlaychandan/WeeklyTest1-PasswordGenerator
